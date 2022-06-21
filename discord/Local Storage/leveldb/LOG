@@ -1,0 +1,6 @@
+2022/06/16-22:18:22.533 aece Reusing MANIFEST /home/lincentpega/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2022/06/16-22:18:22.533 aece Recovering log #4
+2022/06/16-22:18:22.533 aece Reusing old log /home/lincentpega/.config/discord/Local Storage/leveldb/000004.log 
+2022/06/16-22:19:23.597 aedc Level-0 table #7: started
+2022/06/16-22:19:23.611 aedc Level-0 table #7: 463008 bytes OK
+2022/06/16-22:19:23.612 aedc Delete type=0 #4

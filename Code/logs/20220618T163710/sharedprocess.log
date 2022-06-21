@@ -1,0 +1,8 @@
+[2022-06-18 16:37:14.234] [sharedprocess] [info] Starting worker process with pid 24883 (type: fileWatcher, window: 1).
+[2022-06-18 17:04:39.027] [sharedprocess] [info] Getting Manifest... vscodevim.vim
+[2022-06-18 17:04:39.033] [sharedprocess] [info] Installing extension: vscodevim.vim
+[2022-06-18 17:04:40.491] [sharedprocess] [info] Downloaded extension: vscodevim.vim /home/lincentpega/.config/Code/CachedExtensionVSIXs/vscodevim.vim-1.22.2
+[2022-06-18 17:04:40.715] [sharedprocess] [info] Extracted extension to /home/lincentpega/.vscode/extensions/.cf6573ae-a226-4652-97bf-34ff78b3f209: vscodevim.vim
+[2022-06-18 17:04:40.723] [sharedprocess] [info] Renamed to /home/lincentpega/.vscode/extensions/vscodevim.vim-1.22.2
+[2022-06-18 17:04:40.726] [sharedprocess] [info] Extracting completed. vscodevim.vim
+[2022-06-18 17:04:40.731] [sharedprocess] [info] Extension installed successfully: vscodevim.vim
