@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-24T09:04:16.633Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="9lOcewxKkaroHYVCm9jo" version="20.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-24T09:05:23.835Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="r6VVU-6m37hrFqJUdIgs" version="20.4.2" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="2071" dy="1838" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -260,7 +260,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="mc-ZGPXS3bzHDEpSmZdM-78" value="аыкупил долю&lt;br&gt;после запрета&lt;br&gt;Березовскому&lt;br&gt;руководить редакцией" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mc-ZGPXS3bzHDEpSmZdM-77">
+        <mxCell id="mc-ZGPXS3bzHDEpSmZdM-78" value="выкупил долю&lt;br&gt;после запрета&lt;br&gt;Березовскому&lt;br&gt;руководить редакцией" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mc-ZGPXS3bzHDEpSmZdM-77">
           <mxGeometry x="-0.7399" y="5" relative="1" as="geometry">
             <mxPoint x="-50" as="offset" />
           </mxGeometry>
