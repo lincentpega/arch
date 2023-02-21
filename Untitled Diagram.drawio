@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-24T20:21:55.590Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="8xqpfKggh8zx6x0LvFVj" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-21T16:11:00.074Z" agent="5.0 (X11)" etag="ubcN7BXPxBKLlLIgBWM3" version="20.8.11" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="2447" dy="2025" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="1839" dy="1645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -65,7 +65,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mc-ZGPXS3bzHDEpSmZdM-7" value="&lt;b&gt;Юрий Лужков&lt;br&gt;&lt;/b&gt;мэр Москвы, хозяйственник с амбициями президента&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="617" y="980" width="166" height="80" as="geometry" />
+          <mxGeometry x="613.5" y="980" width="173" height="80" as="geometry" />
         </mxCell>
         <mxCell id="mc-ZGPXS3bzHDEpSmZdM-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;startArrow=diamondThin;startFill=0;" parent="1" source="mc-ZGPXS3bzHDEpSmZdM-12" target="mc-ZGPXS3bzHDEpSmZdM-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -119,7 +119,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yFaP6xXPZnmftgV53l2E-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="mc-ZGPXS3bzHDEpSmZdM-23" target="yFaP6xXPZnmftgV53l2E-8">
+        <mxCell id="yFaP6xXPZnmftgV53l2E-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="mc-ZGPXS3bzHDEpSmZdM-23" target="yFaP6xXPZnmftgV53l2E-8" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="930" y="178" />
@@ -127,7 +127,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="yFaP6xXPZnmftgV53l2E-12" value="Обвинён в заказе на убийство&lt;br&gt;судился" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yFaP6xXPZnmftgV53l2E-11">
+        <mxCell id="yFaP6xXPZnmftgV53l2E-12" value="Обвинён в заказе на убийство&lt;br&gt;судился" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="yFaP6xXPZnmftgV53l2E-11" vertex="1" connectable="0">
           <mxGeometry y="-3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -135,37 +135,23 @@
         <mxCell id="mc-ZGPXS3bzHDEpSmZdM-23" value="&lt;b&gt;Борис Березовский&lt;/b&gt;&lt;br&gt;олигарх, убит" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="900" y="190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mc-ZGPXS3bzHDEpSmZdM-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="1" source="mc-ZGPXS3bzHDEpSmZdM-26" target="mc-ZGPXS3bzHDEpSmZdM-5" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1265" y="390" />
-              <mxPoint x="1265" y="400" />
-              <mxPoint x="1478" y="400" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="mc-ZGPXS3bzHDEpSmZdM-28" value="помощник&lt;br&gt;позже заместитель" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="mc-ZGPXS3bzHDEpSmZdM-27" vertex="1" connectable="0">
-          <mxGeometry x="-0.3118" y="-2" relative="1" as="geometry">
-            <mxPoint x="18" y="-2" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="mc-ZGPXS3bzHDEpSmZdM-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="1" source="mc-ZGPXS3bzHDEpSmZdM-26" target="mc-ZGPXS3bzHDEpSmZdM-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mc-ZGPXS3bzHDEpSmZdM-30" value="занимался&lt;br&gt;предвыборной&lt;br&gt;кампанией" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="mc-ZGPXS3bzHDEpSmZdM-29" vertex="1" connectable="0">
           <mxGeometry x="-0.1979" y="-1" relative="1" as="geometry">
-            <mxPoint x="30" y="-24" as="offset" />
+            <mxPoint x="29" y="-4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mc-ZGPXS3bzHDEpSmZdM-26" value="&lt;b&gt;Владислав Сурков&lt;br&gt;&lt;/b&gt;заместитель руководителя администрации Президента" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1010" y="350" width="120" height="80" as="geometry" />
+        <mxCell id="mc-ZGPXS3bzHDEpSmZdM-26" value="&lt;b&gt;Владислав Сурков&lt;br&gt;&lt;/b&gt;&lt;div&gt;политтехнолог&lt;br&gt;&lt;/div&gt;&lt;div&gt;заместитель руководителя администрации Президента&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1010" y="340" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="mc-ZGPXS3bzHDEpSmZdM-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="1" source="mc-ZGPXS3bzHDEpSmZdM-31" target="mc-ZGPXS3bzHDEpSmZdM-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mc-ZGPXS3bzHDEpSmZdM-47" value="возглавил парламентскую&lt;br&gt;фракцию" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="mc-ZGPXS3bzHDEpSmZdM-46" vertex="1" connectable="0">
+        <mxCell id="mc-ZGPXS3bzHDEpSmZdM-47" value="возглавил парламентскую&lt;br&gt;&lt;div&gt;фракцию, чтобы не &lt;br&gt;&lt;/div&gt;&lt;div&gt;рисковать Путиным&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="mc-ZGPXS3bzHDEpSmZdM-46" vertex="1" connectable="0">
           <mxGeometry x="-0.7213" y="-1" relative="1" as="geometry">
-            <mxPoint x="1" y="12" as="offset" />
+            <mxPoint x="1" y="21" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mc-ZGPXS3bzHDEpSmZdM-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="1" source="mc-ZGPXS3bzHDEpSmZdM-31" target="mc-ZGPXS3bzHDEpSmZdM-58" edge="1">
@@ -196,9 +182,9 @@
         <mxCell id="mc-ZGPXS3bzHDEpSmZdM-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="1" source="mc-ZGPXS3bzHDEpSmZdM-40" target="mc-ZGPXS3bzHDEpSmZdM-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mc-ZGPXS3bzHDEpSmZdM-42" value="депутат,&lt;br&gt;позже&lt;br&gt;глава фракции&lt;br&gt;после Примакова" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="mc-ZGPXS3bzHDEpSmZdM-41" vertex="1" connectable="0">
+        <mxCell id="mc-ZGPXS3bzHDEpSmZdM-42" value="депутат, позже глава фракции&lt;br&gt;&lt;div&gt;после Примакова, выступал на стороне&lt;/div&gt;&lt;div&gt;&amp;nbsp;ОВР в парламентской гонке&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="mc-ZGPXS3bzHDEpSmZdM-41" vertex="1" connectable="0">
           <mxGeometry x="-0.3647" y="-2" relative="1" as="geometry">
-            <mxPoint x="2" y="-42" as="offset" />
+            <mxPoint x="2" y="-43" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mc-ZGPXS3bzHDEpSmZdM-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="1" source="mc-ZGPXS3bzHDEpSmZdM-40" target="mc-ZGPXS3bzHDEpSmZdM-18" edge="1">
@@ -277,7 +263,7 @@
         <mxCell id="mc-ZGPXS3bzHDEpSmZdM-67" value="&lt;b&gt;Анатолий Собчак&lt;/b&gt;&lt;br&gt;мэр Санкт-Петербурга" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-30" y="220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yFaP6xXPZnmftgV53l2E-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="mc-ZGPXS3bzHDEpSmZdM-76">
+        <mxCell id="yFaP6xXPZnmftgV53l2E-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="1" source="mc-ZGPXS3bzHDEpSmZdM-76" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="980" y="190" as="targetPoint" />
             <Array as="points">
@@ -285,7 +271,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="yFaP6xXPZnmftgV53l2E-32" value="выкупил долю&lt;br&gt;после запрета&lt;br&gt;Березовскому&lt;br&gt;руководить редакцией" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yFaP6xXPZnmftgV53l2E-31">
+        <mxCell id="yFaP6xXPZnmftgV53l2E-32" value="выкупил долю&lt;br&gt;после запрета&lt;br&gt;Березовскому&lt;br&gt;руководить редакцией" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="yFaP6xXPZnmftgV53l2E-31" vertex="1" connectable="0">
           <mxGeometry x="-0.296" y="1" relative="1" as="geometry">
             <mxPoint x="-1" y="2" as="offset" />
           </mxGeometry>
@@ -299,41 +285,41 @@
         <mxCell id="mc-ZGPXS3bzHDEpSmZdM-79" value="&lt;b&gt;Михаил Касьянов&lt;br&gt;&lt;/b&gt;до Путина министр фининсов, после&lt;br&gt;&lt;u&gt;премьер-министр&lt;/u&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="70" y="560" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yFaP6xXPZnmftgV53l2E-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="yFaP6xXPZnmftgV53l2E-4" target="mc-ZGPXS3bzHDEpSmZdM-58">
+        <mxCell id="yFaP6xXPZnmftgV53l2E-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="1" source="yFaP6xXPZnmftgV53l2E-4" target="mc-ZGPXS3bzHDEpSmZdM-58" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yFaP6xXPZnmftgV53l2E-4" value="&lt;b&gt;Николай Патрушев&lt;/b&gt;&lt;br&gt;директор ФСБ" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yFaP6xXPZnmftgV53l2E-4" value="&lt;b&gt;Николай Патрушев&lt;/b&gt;&lt;br&gt;директор ФСБ" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="690" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yFaP6xXPZnmftgV53l2E-5" value="&lt;b&gt;Герхард Шрёдер&lt;/b&gt;&lt;br&gt;канцлер Германии на 2002 год" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yFaP6xXPZnmftgV53l2E-5" value="&lt;b&gt;Герхард Шрёдер&lt;/b&gt;&lt;br&gt;канцлер Германии на 2002 год" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="410" y="-290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yFaP6xXPZnmftgV53l2E-6" value="&lt;b&gt;НТВ&lt;/b&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="yFaP6xXPZnmftgV53l2E-6" value="&lt;b&gt;НТВ&lt;/b&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="120" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yFaP6xXPZnmftgV53l2E-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yFaP6xXPZnmftgV53l2E-8" target="yFaP6xXPZnmftgV53l2E-6">
+        <mxCell id="yFaP6xXPZnmftgV53l2E-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="yFaP6xXPZnmftgV53l2E-8" target="yFaP6xXPZnmftgV53l2E-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yFaP6xXPZnmftgV53l2E-10" value="Основал и владел" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yFaP6xXPZnmftgV53l2E-9">
+        <mxCell id="yFaP6xXPZnmftgV53l2E-10" value="Основал и владел" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="yFaP6xXPZnmftgV53l2E-9" vertex="1" connectable="0">
           <mxGeometry x="-0.1333" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yFaP6xXPZnmftgV53l2E-8" value="&lt;b&gt;Владимир Гусинский&lt;/b&gt;&lt;br&gt;преследовался за то, что портил репутацию кредиторов НТВ, чтоы не платить долги" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yFaP6xXPZnmftgV53l2E-8" value="&lt;b&gt;Владимир Гусинский&lt;/b&gt;&lt;br&gt;преследовался за то, что портил репутацию кредиторов НТВ, чтоы не платить долги" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="350" y="160" width="180" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="yFaP6xXPZnmftgV53l2E-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="yFaP6xXPZnmftgV53l2E-13" target="yFaP6xXPZnmftgV53l2E-6">
+        <mxCell id="yFaP6xXPZnmftgV53l2E-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="1" source="yFaP6xXPZnmftgV53l2E-13" target="yFaP6xXPZnmftgV53l2E-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yFaP6xXPZnmftgV53l2E-21" value="забрал компанию&lt;br&gt;у Гусинского" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yFaP6xXPZnmftgV53l2E-20">
+        <mxCell id="yFaP6xXPZnmftgV53l2E-21" value="забрал компанию&lt;br&gt;у Гусинского" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="yFaP6xXPZnmftgV53l2E-20" vertex="1" connectable="0">
           <mxGeometry x="-0.2686" y="1" relative="1" as="geometry">
             <mxPoint x="-31" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yFaP6xXPZnmftgV53l2E-13" value="&lt;b&gt;Альфред Кох&lt;/b&gt;&lt;br&gt;гендиректор &quot;Газпром-Медиа&quot;&lt;br&gt;диссидент, возбождено уголовное дело" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yFaP6xXPZnmftgV53l2E-13" value="&lt;b&gt;Альфред Кох&lt;/b&gt;&lt;br&gt;гендиректор &quot;Газпром-Медиа&quot;&lt;br&gt;диссидент, возбождено уголовное дело" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-80" y="50" width="120" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="yFaP6xXPZnmftgV53l2E-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yFaP6xXPZnmftgV53l2E-14" target="mc-ZGPXS3bzHDEpSmZdM-1">
+        <mxCell id="yFaP6xXPZnmftgV53l2E-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="1" source="yFaP6xXPZnmftgV53l2E-14" target="mc-ZGPXS3bzHDEpSmZdM-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="230" y="-100" />
@@ -341,12 +327,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="yFaP6xXPZnmftgV53l2E-16" value="был идеологом реформ" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yFaP6xXPZnmftgV53l2E-15">
+        <mxCell id="yFaP6xXPZnmftgV53l2E-16" value="был идеологом реформ" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="yFaP6xXPZnmftgV53l2E-15" vertex="1" connectable="0">
           <mxGeometry x="-0.5782" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yFaP6xXPZnmftgV53l2E-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="yFaP6xXPZnmftgV53l2E-14" target="yFaP6xXPZnmftgV53l2E-13">
+        <mxCell id="yFaP6xXPZnmftgV53l2E-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="yFaP6xXPZnmftgV53l2E-14" target="yFaP6xXPZnmftgV53l2E-13" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="70" y="-145" />
@@ -354,29 +340,29 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="yFaP6xXPZnmftgV53l2E-18" value="друзья" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yFaP6xXPZnmftgV53l2E-17">
+        <mxCell id="yFaP6xXPZnmftgV53l2E-18" value="друзья" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="yFaP6xXPZnmftgV53l2E-17" vertex="1" connectable="0">
           <mxGeometry x="-0.6611" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yFaP6xXPZnmftgV53l2E-14" value="&lt;b&gt;Анатолий Чубайс&lt;/b&gt;&lt;br&gt;зампред правительства, министр финансов" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yFaP6xXPZnmftgV53l2E-14" value="&lt;b&gt;Анатолий Чубайс&lt;/b&gt;&lt;br&gt;зампред правительства, министр финансов" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="170" y="-190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yFaP6xXPZnmftgV53l2E-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="yFaP6xXPZnmftgV53l2E-23" target="mc-ZGPXS3bzHDEpSmZdM-23">
+        <mxCell id="yFaP6xXPZnmftgV53l2E-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="1" source="yFaP6xXPZnmftgV53l2E-23" target="mc-ZGPXS3bzHDEpSmZdM-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yFaP6xXPZnmftgV53l2E-25" value="помогал писать книгу&lt;br&gt;о подрыве домов" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yFaP6xXPZnmftgV53l2E-24">
+        <mxCell id="yFaP6xXPZnmftgV53l2E-25" value="помогал писать книгу&lt;br&gt;о подрыве домов" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="yFaP6xXPZnmftgV53l2E-24" vertex="1" connectable="0">
           <mxGeometry x="0.25" relative="1" as="geometry">
             <mxPoint x="15" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yFaP6xXPZnmftgV53l2E-23" value="&lt;b&gt;Александр Литвиненко&lt;/b&gt;&lt;br&gt;подполковник ФСБ" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yFaP6xXPZnmftgV53l2E-23" value="&lt;b&gt;Александр Литвиненко&lt;/b&gt;&lt;br&gt;подполковник ФСБ" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1155" y="140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yFaP6xXPZnmftgV53l2E-27" value="&lt;b&gt;Анна Политковская&lt;/b&gt;&lt;br&gt;сняла интервью с предположительным участником организации терракта &quot;Норд Ост&quot;, убита" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yFaP6xXPZnmftgV53l2E-27" value="&lt;b&gt;Анна Политковская&lt;/b&gt;&lt;br&gt;сняла интервью с предположительным участником организации терракта &quot;Норд Ост&quot;, убита" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1180" y="215" width="150" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="yFaP6xXPZnmftgV53l2E-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="yFaP6xXPZnmftgV53l2E-28">
+        <mxCell id="yFaP6xXPZnmftgV53l2E-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="1" source="yFaP6xXPZnmftgV53l2E-28" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="790" y="-190" as="targetPoint" />
             <Array as="points">
@@ -385,23 +371,23 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="yFaP6xXPZnmftgV53l2E-28" value="&lt;b&gt;Людмила Путина&lt;/b&gt;&lt;br&gt;жена Владимира Путина" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yFaP6xXPZnmftgV53l2E-28" value="&lt;b&gt;Людмила Путина&lt;/b&gt;&lt;br&gt;жена Владимира Путина" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="410" y="-200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yFaP6xXPZnmftgV53l2E-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=diamondThin;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="yFaP6xXPZnmftgV53l2E-30" target="mc-ZGPXS3bzHDEpSmZdM-76">
+        <mxCell id="yFaP6xXPZnmftgV53l2E-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=diamondThin;startFill=0;endArrow=none;endFill=0;" parent="1" source="yFaP6xXPZnmftgV53l2E-30" target="mc-ZGPXS3bzHDEpSmZdM-76" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yFaP6xXPZnmftgV53l2E-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;startArrow=diamondThin;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="yFaP6xXPZnmftgV53l2E-30" target="mc-ZGPXS3bzHDEpSmZdM-23">
+        <mxCell id="yFaP6xXPZnmftgV53l2E-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;startArrow=diamondThin;startFill=0;endArrow=none;endFill=0;" parent="1" source="yFaP6xXPZnmftgV53l2E-30" target="mc-ZGPXS3bzHDEpSmZdM-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yFaP6xXPZnmftgV53l2E-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;startArrow=diamondThin;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="yFaP6xXPZnmftgV53l2E-30" target="yFaP6xXPZnmftgV53l2E-8">
+        <mxCell id="yFaP6xXPZnmftgV53l2E-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;startArrow=diamondThin;startFill=0;endArrow=none;endFill=0;" parent="1" source="yFaP6xXPZnmftgV53l2E-30" target="yFaP6xXPZnmftgV53l2E-8" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="750" y="160" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="yFaP6xXPZnmftgV53l2E-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;startArrow=diamondThin;startFill=0;endArrow=none;endFill=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="yFaP6xXPZnmftgV53l2E-30" target="yFaP6xXPZnmftgV53l2E-13">
+        <mxCell id="yFaP6xXPZnmftgV53l2E-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;startArrow=diamondThin;startFill=0;endArrow=none;endFill=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" parent="1" source="yFaP6xXPZnmftgV53l2E-30" target="yFaP6xXPZnmftgV53l2E-13" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="270" y="130" as="targetPoint" />
             <Array as="points">
@@ -409,29 +395,77 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="yFaP6xXPZnmftgV53l2E-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;startArrow=diamondThin;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="yFaP6xXPZnmftgV53l2E-30" target="yFaP6xXPZnmftgV53l2E-37">
+        <mxCell id="yFaP6xXPZnmftgV53l2E-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;startArrow=diamondThin;startFill=0;endArrow=none;endFill=0;" parent="1" source="yFaP6xXPZnmftgV53l2E-30" target="yFaP6xXPZnmftgV53l2E-37" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yFaP6xXPZnmftgV53l2E-30" value="&lt;b&gt;Олигархи&lt;/b&gt;" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="yFaP6xXPZnmftgV53l2E-30" value="&lt;b&gt;Олигархи&lt;/b&gt;" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="750" y="10" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yFaP6xXPZnmftgV53l2E-37" value="&lt;b&gt;Михаил Фридман&lt;/b&gt;&lt;br&gt;владелец &quot;Тюменской нефтяной компании&quot;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yFaP6xXPZnmftgV53l2E-37" value="&lt;b&gt;Михаил Фридман&lt;/b&gt;&lt;br&gt;владелец &quot;Тюменской нефтяной компании&quot;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="920" y="-20" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yFaP6xXPZnmftgV53l2E-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;startArrow=diamondThin;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="yFaP6xXPZnmftgV53l2E-39" target="yFaP6xXPZnmftgV53l2E-30">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="yFaP6xXPZnmftgV53l2E-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=diamondThin;startFill=0;endArrow=none;endFill=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="yFaP6xXPZnmftgV53l2E-30" target="yFaP6xXPZnmftgV53l2E-39" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="580" y="70" as="sourcePoint" />
+            <mxPoint x="620" y="100" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="yFaP6xXPZnmftgV53l2E-39" value="&lt;b&gt;Алексей Миллер&lt;/b&gt;&lt;br&gt;глава &quot;Газпрома&quot;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yFaP6xXPZnmftgV53l2E-39" value="&lt;b&gt;Алексей Миллер&lt;/b&gt;&lt;br&gt;глава &quot;Газпрома&quot;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="410" y="60" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yFaP6xXPZnmftgV53l2E-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=diamondThin;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="yFaP6xXPZnmftgV53l2E-41" target="yFaP6xXPZnmftgV53l2E-30">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="yFaP6xXPZnmftgV53l2E-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=diamondThin;startFill=0;endArrow=none;endFill=0;" parent="1" target="yFaP6xXPZnmftgV53l2E-41" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="750" y="20" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="750" y="20" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="yFaP6xXPZnmftgV53l2E-41" value="&lt;b&gt;Михаил Ходорковский&lt;/b&gt;&lt;br&gt;бывший владелец ЮКОСа" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yFaP6xXPZnmftgV53l2E-41" value="&lt;b&gt;Михаил Ходорковский&lt;/b&gt;&lt;br&gt;бывший владелец ЮКОСа" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="410" y="-10" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yFaP6xXPZnmftgV53l2E-43" value="&lt;b&gt;Тони Блэр&lt;/b&gt;&lt;br&gt;премьер-министр&lt;br&gt;Великобритании" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yFaP6xXPZnmftgV53l2E-43" value="&lt;b&gt;Тони Блэр&lt;/b&gt;&lt;br&gt;премьер-министр&lt;br&gt;Великобритании" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="-290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PXXpoXFZcC-JUt0eemZt-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/5/51/Alexander_Voloshin.png;" vertex="1" parent="1">
+          <mxGeometry x="1555" y="290" width="66.89" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="PXXpoXFZcC-JUt0eemZt-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/3/3b/YPrimakov.jpg;" vertex="1" parent="1">
+          <mxGeometry x="787.5" y="780" width="68.12" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="PXXpoXFZcC-JUt0eemZt-3" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/7/7a/%D0%92.%D0%91._%D0%AE%D0%BC%D0%B0%D1%88%D0%B5%D0%B2.jpg;" vertex="1" parent="1">
+          <mxGeometry x="120" y="-20" width="52" height="62.59" as="geometry" />
+        </mxCell>
+        <mxCell id="PXXpoXFZcC-JUt0eemZt-4" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/1/19/Tatyana_Yumasheva_%282020-01-17%29.jpg;" vertex="1" parent="1">
+          <mxGeometry x="220" y="34.43" width="40" height="51.14" as="geometry" />
+        </mxCell>
+        <mxCell id="PXXpoXFZcC-JUt0eemZt-5" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/a/a9/Yuri_Luzhkov_2010_Moscow_Unesco_02.jpg;" vertex="1" parent="1">
+          <mxGeometry x="786.5" y="980.3" width="59.62" height="79.7" as="geometry" />
+        </mxCell>
+        <mxCell id="PXXpoXFZcC-JUt0eemZt-6" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.lb.ua/025/17/5e4bf70308dd4.jpeg;" vertex="1" parent="1">
+          <mxGeometry x="320" y="690" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PXXpoXFZcC-JUt0eemZt-7" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/ru/7/78/%D0%91%D0%BB%D0%BE%D0%BA_%D0%9E%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%BE_%D0%92%D1%81%D1%8F_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F.jpg;" vertex="1" parent="1">
+          <mxGeometry x="430" y="680.51" width="86" height="59.49" as="geometry" />
+        </mxCell>
+        <mxCell id="PXXpoXFZcC-JUt0eemZt-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;entryX=0.411;entryY=1.006;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="mc-ZGPXS3bzHDEpSmZdM-26" target="mc-ZGPXS3bzHDEpSmZdM-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1155" y="385" />
+              <mxPoint x="1155" y="420" />
+              <mxPoint x="1464" y="420" />
+            </Array>
+            <mxPoint x="1130" y="390.0344827586209" as="sourcePoint" />
+            <mxPoint x="1170" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PXXpoXFZcC-JUt0eemZt-10" value="помощник&lt;br&gt;позже заместитель" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PXXpoXFZcC-JUt0eemZt-9">
+          <mxGeometry x="-0.3118" y="-2" relative="1" as="geometry">
+            <mxPoint x="18" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PXXpoXFZcC-JUt0eemZt-8" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://static.dw.com/image/38801065_906.jpg;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="345" width="60" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
